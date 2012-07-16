@@ -75,7 +75,7 @@ this.ScenarioSetup(scenarioInfo);
 #line 7
  testRunner.When("I visit the home page");
 #line 8
- testRunner.Then("I should see a \'I\'ve brought in cake\' button");
+ testRunner.Then("I should see an \'I\'ve brought in cake!\' button");
 #line hidden
             this.ScenarioCleanup();
         }

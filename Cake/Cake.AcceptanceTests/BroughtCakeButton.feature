@@ -5,4 +5,4 @@
 
 Scenario: Visit home page
 	When I visit the home page
-	Then I should see a 'I've brought in cake' button
+	Then I should see an 'I've brought in cake!' button
