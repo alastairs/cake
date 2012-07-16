@@ -25,6 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{AE5039
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cake.AcceptanceTests", "Cake.AcceptanceTests\Cake.AcceptanceTests.csproj", "{B878B466-3EDC-465E-9DDA-54EBB6289A03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{B2B6D140-6457-46FA-894A-E685DE0F38BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2B6D140-6457-46FA-894A-E685DE0F38BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2B6D140-6457-46FA-894A-E685DE0F38BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B878B466-3EDC-465E-9DDA-54EBB6289A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B878B466-3EDC-465E-9DDA-54EBB6289A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B878B466-3EDC-465E-9DDA-54EBB6289A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B878B466-3EDC-465E-9DDA-54EBB6289A03}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C17899DA-523B-419C-B467-32509A898C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C17899DA-523B-419C-B467-32509A898C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C17899DA-523B-419C-B467-32509A898C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
